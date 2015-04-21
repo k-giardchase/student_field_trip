@@ -7,7 +7,7 @@ April 21 2015
 
 
 ##Description
-An app that calculates the cost for a pizza pie based on toppings.
+This app creates, edits and deletes students on a student roster. One can also track which students have submitted permission slips for a field trip. This project utilizes Angular JS factories. 
 
 ##Technologies Used
 <a href='https://angularjs.org/'>Angular JS</a> <br>
