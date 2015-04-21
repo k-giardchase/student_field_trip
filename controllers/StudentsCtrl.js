@@ -6,4 +6,11 @@ studentRoster.controller('StudentsCtrl', function StudentsCtrl($scope, StudentsF
       StudentsFactory.addStudent(name);
       $scope.studentName = null;
     };
+
+    $scope.deleteStudent = function() {
+      var name = $scope.studentName;
+      StudentsFactory.deleteStudent(name);
+
+
+    };
 });
