@@ -10,7 +10,5 @@ studentRoster.controller('StudentsCtrl', function StudentsCtrl($scope, StudentsF
     $scope.deleteStudent = function() {
       var name = $scope.studentName;
       StudentsFactory.deleteStudent(name);
-
-
     };
 });
