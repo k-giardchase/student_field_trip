@@ -10,7 +10,6 @@ This app allows a user to create, edit and delete students on a student roster. 
 
 ##Technologies Used
 <a href='https://angularjs.org/'>AngularJS</a> <br>
-<a href='http://angular-ui.github.io/'>AngularUI</a><br>
 JavaScript <br>
 <a href='http://getbootstrap.com/'>Bootstrap </a>for styling <br>
 
